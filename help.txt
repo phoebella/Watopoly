@@ -1,0 +1,10 @@
+roll:                           rolls 2 dice and moves the sum of dices
+next:                           give control to the next player
+trade <name> <give> <receive>:  offer <give> to <name> for <receive>
+improve <property> buy/sell:    buy or sell improvement on <property>
+mortgage <property>:            mortgages <property>
+unmortgage <property>:          unmortgages <property>
+assets:                         show your assets
+all:                            displays the asssets of every player
+save <filename>:                saves current state of game in <filename>
+

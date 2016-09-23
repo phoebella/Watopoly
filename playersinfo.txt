@@ -1,0 +1,2 @@
+Name   1.Goose   2.GRT Bus   3.Tim Hortons Doughnut   4.Professor   5.Student   6. Money   7. Laptop   8. Pink tie
+Char      G            B                D                   P             S          $           L           T
